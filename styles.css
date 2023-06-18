@@ -205,11 +205,14 @@ body {
     margin-bottom: 10px;
     font-size: 15px;
 }
-
+.experiences__company-header-location {
+    font-size: 16px;
+    
+}
 .experiences__company-project-name {
     color: var(--primary-text-color);
     text-align: left;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .experiences__company-project-responsibilities {
